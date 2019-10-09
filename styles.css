@@ -1,6 +1,7 @@
-body {
-  font-family: arial;
-}
+@import url('https://fonts.googleapis.com/css?family=Monda&display=swap');
+
+
+body {font-family: 'Monda', sans-serif;}
 
 .container {
   display: flex;
